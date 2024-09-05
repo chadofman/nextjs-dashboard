@@ -1,2 +1,2 @@
 # nextjs-dashboard
-tutorial 
+tutorial from https://nextjs.org/learn/
